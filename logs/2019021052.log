@@ -1,0 +1,13 @@
+2019-02-28 10:52:38,086-BrowserEngine-INFO-读取浏览器成功
+2019-02-28 10:52:38,087-BrowserEngine-INFO-找到URL：http://127.0.0.1/forum.php
+2019-02-28 10:52:40,881-BrowserEngine-INFO-谷歌浏览器
+2019-02-28 10:52:42,980-BrowserEngine-INFO-打开浏览器http://127.0.0.1/forum.php
+2019-02-28 10:52:44,286-BasePage-INFO-输入内容
+2019-02-28 10:52:44,382-BasePage-INFO-输入内容
+2019-02-28 10:52:53,274-BasePage-INFO-输入内容
+2019-02-28 10:52:53,387-BasePage-INFO-输入内容
+2019-02-28 10:52:53,502-BasePage-INFO-输入内容
+2019-02-28 10:52:55,606-BasePage-INFO-获取内容成功
+2019-02-28 10:52:55,675-BasePage-INFO-获取内容成功
+2019-02-28 10:53:06,245-BasePage-INFO-未找到页面元素
+2019-02-28 10:53:06,245-BasePage-INFO-获取内容成功

@@ -1,0 +1,17 @@
+2019-02-27 11:08:24,357-BrowserEngine-INFO-读取浏览器成功
+2019-02-27 11:08:24,357-BrowserEngine-INFO-找到URL：http://127.0.0.1/forum.php
+2019-02-27 11:08:28,185-BrowserEngine-INFO-谷歌浏览器
+2019-02-27 11:08:30,417-BrowserEngine-INFO-打开浏览器http://127.0.0.1/forum.php
+2019-02-27 11:08:31,691-BasePage-INFO-输入内容
+2019-02-27 11:08:31,804-BasePage-INFO-输入内容
+2019-02-27 11:08:37,453-BasePage-INFO-输入内容
+2019-02-27 11:08:37,637-BasePage-INFO-输入内容
+2019-02-27 11:08:53,144-BasePage-INFO-未找到页面元素
+2019-02-28 11:08:12,066-BrowserEngine-INFO-读取浏览器成功
+2019-02-28 11:08:12,066-BrowserEngine-INFO-找到URL：http://127.0.0.1/forum.php
+2019-02-28 11:08:14,265-BrowserEngine-INFO-谷歌浏览器
+2019-02-28 11:08:15,842-BrowserEngine-INFO-打开浏览器http://127.0.0.1/forum.php
+2019-02-28 11:08:17,142-BasePage-INFO-输入内容
+2019-02-28 11:08:17,241-BasePage-INFO-输入内容
+2019-02-28 11:08:22,451-BasePage-INFO-输入内容
+2019-02-28 11:08:25,050-BasePage-INFO-获取内容成功
